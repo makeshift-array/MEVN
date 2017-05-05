@@ -1,0 +1,15 @@
+{
+  "name": "MEVN",
+  "version": "1.0.0",
+  "description": "mongo express vue node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4",
+    "vue": "^2.2.6",
+    "vue-server-renderer": "^2.2.6"
+  }
+}
